@@ -16,7 +16,7 @@ const welcomeSlides = ['Refined Styling', 'Crisp Logic', 'SEO Compatibilty'];
 
 
 
-welcomeSlides.forEach(slide => welcome.innerHTML = slide);
+ welcomeSlides.forEach(slide => welcome.innerHTML = slide);
 
 
 
